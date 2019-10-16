@@ -4,8 +4,7 @@ Function is a module of code that takes information in (referring to that inform
 
 Defining a function
 
-return_type function_name( parameter list )
-
+return_type function_name( parameter list );
 { 
 
     body of the function
